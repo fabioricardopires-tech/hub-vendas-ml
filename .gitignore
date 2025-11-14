@@ -1,0 +1,9 @@
+# Ignorar a pasta de dados que contém nossas credenciais e estado
+data/
+
+# Ignorar pastas de cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar arquivos de ambiente do VS Code
+.vscode/
